@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Annual Buyers Show on Business Gifts]]></title>
         <description><![CDATA[Annual Buyers Show on Business Gifts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/corporate-giveaways-buyers-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 08:55:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 08:55:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/corporate-giveaways-buyers-show/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.corporategiveawaysbuyershow.com/uploads/2/3/8/8/2388646/639030.jpg">]]></description>
+            <link>http://www.corporategiveawaysbuyershow.com/</link>
+            <guid isPermaLink="false">e895f044-b7d2-4fad-a604-92cc6a1dec55</guid>
+            <pubDate>Wed, 03 Feb 2016 08:55:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.corporategiveawaysbuyershow.com/uploads/2/3/8/8/2388646/3843378.jpg">]]></description>
